@@ -47,3 +47,5 @@ function updateDom() {
         next.disabled = false
     }
 }
+
+console.log("test)")
