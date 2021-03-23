@@ -9,3 +9,5 @@
 | 5   | [Blurry Loading](https://github.com/PaulMFleming/50Projects50Days/tree/master/blurry-loading) |
 | 6   | [Scroll Animation](https://github.com/PaulMFleming/50Projects50Days/tree/master/scroll-animation) |
 | 7   | [Split Landing Page](https://github.com/PaulMFleming/50Projects50Days/tree/master/split-landing-page) |
+| 8   | [Form Wave Animation](https://github.com/PaulMFleming/50Projects50Days/tree/master/form-wave-animation) |
+| 9   | [Sound Board](https://github.com/PaulMFleming/50Projects50Days/tree/master/sound-board) |
