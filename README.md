@@ -12,3 +12,4 @@
 | 8   | [Form Wave Animation](https://github.com/PaulMFleming/50Projects50Days/tree/master/form-wave-animation) |
 | 9   | [Sound Board](https://github.com/PaulMFleming/50Projects50Days/tree/master/sound-board)                 |
 | 10  | [Dad Jokes](https://github.com/PaulMFleming/50Projects50Days/tree/master/dad-jokes)                     |
+| 11  | [Event Key Codes](https://github.com/PaulMFleming/50Projects50Days/tree/master/event-key-codes)         |
