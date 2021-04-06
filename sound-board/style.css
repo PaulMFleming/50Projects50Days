@@ -17,6 +17,12 @@ body {
     overflow: hidden;
     margin: 0;
 }
+#title {
+    background-color: #272a75;
+    color: rgba(255, 255, 255, 1);
+    padding: 1.5rem 3rem;
+    border-radius: 5px;
+}
 
 .btn {
     background-color: #27295f;
