@@ -13,3 +13,4 @@
 | 9   | [Sound Board](https://github.com/PaulMFleming/50Projects50Days/tree/master/sound-board)                 |
 | 10  | [Dad Jokes](https://github.com/PaulMFleming/50Projects50Days/tree/master/dad-jokes)                     |
 | 11  | [Event Key Codes](https://github.com/PaulMFleming/50Projects50Days/tree/master/event-key-codes)         |
+| 12  | [FAQ Collapse](https://github.com/PaulMFleming/50Projects50Days/tree/master/faq-collapse)               |
