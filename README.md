@@ -15,4 +15,4 @@
 | 11  | [Event Key Codes](https://github.com/PaulMFleming/50Projects50Days/tree/master/event-key-codes)           |
 | 12  | [FAQ Collapse](https://github.com/PaulMFleming/50Projects50Days/tree/master/faq-collapse)                 |
 | 13  | [Random Choice Picker](https://github.com/PaulMFleming/50Projects50Days/tree/master/random-choice-picker) |
-| 14  | [Animated Navigation](https://github.com/PaulMFleming/50Projects50Days/tree/master/animated-navigation) |
+| 14  | [Animated Navigation](https://github.com/PaulMFleming/50Projects50Days/tree/master/animated-navigation)   |
