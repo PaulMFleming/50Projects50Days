@@ -25,3 +25,4 @@
 | 21  | [Drag N Drop](https://github.com/PaulMFleming/50Projects50Days/tree/master/drag-n-drop)                   |
 | 22  | [Drawing App](https://github.com/PaulMFleming/50Projects50Days/tree/master/drawing-app)                   |
 | 23  | [Kinetic CSS Loader](https://github.com/PaulMFleming/50Projects50Days/tree/master/kinetic-css-loader)     |
+| 24  | [Content Placeholder](https://github.com/PaulMFleming/50Projects50Days/tree/master/content-placeholder)   |
