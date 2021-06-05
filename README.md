@@ -28,3 +28,4 @@
 | 24  | [Content Placeholder](https://github.com/PaulMFleming/50Projects50Days/tree/master/content-placeholder)       |
 | 25  | [Sticky Nav](https://github.com/PaulMFleming/50Projects50Days/tree/master/sticky-nav)                         |
 | 26  | [Double Vertical Slider](https://github.com/PaulMFleming/50Projects50Days/tree/master/double-vertical-slider) |
+| 27  | [Toast Notification](https://github.com/PaulMFleming/50Projects50Days/tree/master/toast-notification)         |
