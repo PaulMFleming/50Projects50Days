@@ -31,3 +31,4 @@
 | 27  | [Toast Notification](https://github.com/PaulMFleming/50Projects50Days/tree/master/toast-notification)         |
 | 28  | [Github Profiles](https://github.com/PaulMFleming/50Projects50Days/tree/master/github-profiles)               |
 | 29  | [Double Click Heart](https://github.com/PaulMFleming/50Projects50Days/tree/master/double-click-heart)         |
+| 30  | [Auto Text Effect](https://github.com/PaulMFleming/50Projects50Days/tree/master/auto-text-effect)             |
